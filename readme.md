@@ -1,0 +1,2 @@
+- Download the .zip archive containing all datasets used by SamRuLe authors from  http://tinyurl.com/SamRuLedatasets
+- Extract the .zip archive creating the `data` folder.
